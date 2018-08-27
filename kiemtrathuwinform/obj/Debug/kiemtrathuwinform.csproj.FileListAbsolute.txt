@@ -1,0 +1,12 @@
+D:\Code\C#\kiemtrathuwinform\kiemtrathuwinform\bin\Debug\kiemtrathuwinform.exe.config
+D:\Code\C#\kiemtrathuwinform\kiemtrathuwinform\bin\Debug\Database1.mdf
+D:\Code\C#\kiemtrathuwinform\kiemtrathuwinform\bin\Debug\Database1_log.ldf
+D:\Code\C#\kiemtrathuwinform\kiemtrathuwinform\bin\Debug\kiemtrathuwinform.exe
+D:\Code\C#\kiemtrathuwinform\kiemtrathuwinform\bin\Debug\kiemtrathuwinform.pdb
+D:\Code\C#\kiemtrathuwinform\kiemtrathuwinform\obj\Debug\kiemtrathuwinform.csprojResolveAssemblyReference.cache
+D:\Code\C#\kiemtrathuwinform\kiemtrathuwinform\obj\Debug\kiemtrathuwinform.CapnhatourForm.resources
+D:\Code\C#\kiemtrathuwinform\kiemtrathuwinform\obj\Debug\kiemtrathuwinform.Form1.resources
+D:\Code\C#\kiemtrathuwinform\kiemtrathuwinform\obj\Debug\kiemtrathuwinform.Properties.Resources.resources
+D:\Code\C#\kiemtrathuwinform\kiemtrathuwinform\obj\Debug\kiemtrathuwinform.csproj.GenerateResource.Cache
+D:\Code\C#\kiemtrathuwinform\kiemtrathuwinform\obj\Debug\kiemtrathuwinform.exe
+D:\Code\C#\kiemtrathuwinform\kiemtrathuwinform\obj\Debug\kiemtrathuwinform.pdb
